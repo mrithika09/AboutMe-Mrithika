@@ -10,8 +10,7 @@
 
 ---
 
-# :woman_technologist: About Me :
-Welcome to my GitHub! I'm Mrithika, a data analyst and visualization specialist with a passion for turning complex data into actionable insights and engaging visual stories. Below, you can find a summary of my skills, tools, and some of the projects I have worked on.
+### Welcome to my GitHub! I'm Mrithika, a data analyst and visualization specialist with a passion for turning complex data into actionable insights and engaging visual stories. Below, you can find a summary of my skills, tools, and some of the projects I have worked on.
 
 # : 📊 About Me
 I specialize in analyzing data and creating visualizations that communicate trends, patterns, and insights. My background includes working with a variety of data sources, statistical analysis, machine learning, and creating interactive visualizations using Python and other tools.
