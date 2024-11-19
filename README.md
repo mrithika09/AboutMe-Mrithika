@@ -46,7 +46,11 @@ Here are some of the key projects I've worked on, each demonstrating my data ana
 
 Tools: Python, Pandas, Matplotlib, Plotly
 Key Insights: Performed an Exploratory Data Analysis (EDA) on the well-known Iris dataset, which contains measurements for 150 iris flowers from three species.
-Explore the project in detail: https://github.com/mrithika09/Mrithika/tree/main
+Explore the project in detail: https://github.com/mrithika09/Iris-Data-Anlysis
+
+Tools: Python, Pandas, Matplotlib, Plotly
+Key Insights: Clean, analyze and visualize 12 months of Retail data to draw meaningful insights from it.
+Explore the project in detail: https://github.com/mrithika09/Retail-Data-Analysis
 
 # :📚 Education & Certifications
 Bachelor’s Degree in Engineering
