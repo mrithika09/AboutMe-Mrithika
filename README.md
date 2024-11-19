@@ -12,7 +12,7 @@
 
 ### Welcome to my GitHub! I'm Mrithika, a data analyst and visualization specialist with a passion for turning complex data into actionable insights and engaging visual stories. Below, you can find a summary of my skills, tools, and some of the projects I have worked on.
 
-# : 📊 About Me
+# 📊 About Me
 I specialize in analyzing data and creating visualizations that communicate trends, patterns, and insights. My background includes working with a variety of data sources, statistical analysis, machine learning, and creating interactive visualizations using Python and other tools.
 
 Data Analysis: Exploratory Data Analysis (EDA), statistical modeling, hypothesis testing, and trend analysis.
@@ -26,7 +26,7 @@ Power BI / Tableau
 Jupyter Notebooks / Google Colab
 Git and GitHub for version control
 
-# :🔧 Technical Skills
+# 🔧 Technical Skills
 Programming Languages:
 Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)
 SQL
@@ -41,7 +41,7 @@ Libraries: scikit-learn, TensorFlow, etc.
 Data Cleaning & Wrangling: Handling missing data, outliers, and data normalization; Merging, reshaping, and transforming datasets using pandas and NumPy.
 Version Control: Proficient in Git, GitHub for managing project versions and collaboration.
 
-# :📈 Notable Projects
+# 📈 Notable Projects
 Here are some of the key projects I've worked on, each demonstrating my data analysis and visualization skills. Feel free to explore the notebooks and code in the corresponding repositories:
 
 Tools: Python, Pandas, Matplotlib, Plotly
@@ -52,7 +52,7 @@ Tools: Python, Pandas, Matplotlib, Plotly
 Key Insights: Clean, analyze and visualize 12 months of Retail data to draw meaningful insights from it.
 Explore the project in detail: https://github.com/mrithika09/Retail-Data-Analysis
 
-# :📚 Education & Certifications
+# 📚 Education & Certifications
 Bachelor’s Degree in Engineering
 National University of Singapore | 2023
 
