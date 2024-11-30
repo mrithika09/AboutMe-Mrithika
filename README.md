@@ -52,6 +52,10 @@ Tools: Python, Pandas, Matplotlib, Plotly
 Key Insights: Clean, analyze and visualize 12 months of Retail data to draw meaningful insights from it.
 Explore the project in detail: https://github.com/mrithika09/Retail-Data-Analysis
 
+Tools: Tableau
+Key insights: Analysing British Airways data in order to create a interactive dashboard to obtain key insights
+Explore the projects in detail: https://github.com/mrithika09/Tableau-Projects
+
 # 📚 Education & Certifications
 Bachelor’s Degree in Engineering
 National University of Singapore | 2023
